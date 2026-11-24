@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 AETHROM BOT
+# 🤖 AETHRON BOT
 
 ### A full-stack AI chat application powered by OpenAI GPT-4o-mini
 
@@ -16,7 +16,7 @@
 
 ## 📌 About the Project
 
-**AETHROM BOT** is a full-stack AI chatbot web application similar to ChatGPT. It allows users to have real-time AI-powered conversations, with each chat session stored in a MongoDB database. Users can create multiple conversation threads, switch between them, delete them, and get intelligent responses powered by OpenAI's `gpt-4o-mini` model.
+**AETHRON BOT** is a full-stack AI chatbot web application similar to ChatGPT. It allows users to have real-time AI-powered conversations, with each chat session stored in a MongoDB database. Users can create multiple conversation threads, switch between them, delete them, and get intelligent responses powered by OpenAI's `gpt-4o-mini` model.
 
 ---
 
